@@ -1,5 +1,9 @@
 ![alt text](images/hi.gif)
 
+git add .
+git commit -m "Add GIF"
+git push
+
 
 
 
