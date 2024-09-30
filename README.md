@@ -1,7 +1,6 @@
-![alt text](images/hi.gif)
-
+![alt text](images/Hi.gif)
 git add .
-git commit -m "Add GIF"
+git commit -m "Hi.gif"
 git push
 
 
