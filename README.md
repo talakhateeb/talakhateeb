@@ -1,7 +1,5 @@
-![alt text](images/Hi.gif)
-git add .
-git commit -m "Hi.gif"
-git push
+![alt text](https://raw.githubusercontent.com/your-username/your-repo/main/images/Hi.gif)
+
 
 
 
