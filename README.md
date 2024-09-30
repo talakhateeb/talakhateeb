@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/your-username/your-repo/main/images/Hi.gif)
+![alt text](images/hello.jpg)
 
 
 
